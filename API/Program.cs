@@ -11,7 +11,6 @@ builder.Services.AddDbContext<DataContext>(opt =>
 });
 builder.Services.AddCors();
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

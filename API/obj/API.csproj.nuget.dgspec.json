@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\API\\API.csproj",
         "packagesPath": "C:\\Users\\knowhatelse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\knowhatelse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\program files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,17 +42,17 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[7.0.13, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -79,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\program files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

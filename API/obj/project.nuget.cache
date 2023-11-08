@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "NeUFTo5HmwFRZFves27I4hYdTsNJlqtYng9aP1k11g9uEtYCq6svkWgn4OAxl7N7Hd/I5dUUZeaKNYdHUabo9w==",
+  "dgSpecHash": "UPP61qTv0PRC9dAF+BdqntidxhU+VvK2cdeDpqz40pTCvMWXkv2MTRqj2+ghiCBDTiSQrRAAmG6AENkswM+t/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\knowhatelse\\Projects\\udemy-course-web-app\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\knowhatelse\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\knowhatelse\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\knowhatelse\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\knowhatelse\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
-    "C:\\Users\\knowhatelse\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\knowhatelse\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\knowhatelse\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "C:\\Users\\knowhatelse\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\knowhatelse\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",

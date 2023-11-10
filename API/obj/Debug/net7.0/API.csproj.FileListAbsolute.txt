@@ -174,3 +174,5 @@ C:\Users\knowhatelse\Projects\udemy-course-web-app\API\obj\Debug\net7.0\API.pdb
 C:\Users\knowhatelse\Projects\udemy-course-web-app\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\knowhatelse\Projects\udemy-course-web-app\API\obj\Debug\net7.0\ref\API.dll
 C:\Users\knowhatelse\Projects\udemy-course-web-app\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\Users\knowhatelse\Projects\udemy-course-web-app\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\knowhatelse\Projects\udemy-course-web-app\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

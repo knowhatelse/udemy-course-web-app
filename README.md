@@ -10,7 +10,7 @@ This project is about a dating website, where anyone can create their user accou
 
 ## **Technologies**
 
-- Frameworks: .NET (ASP.NET Core, Entity Framework), Angular and Bootstrap (ngx-bootstrap).
+- Frameworks: .NET (ASP.NET Core, Entity Framework), Angular and Bootstrap (ngx-bootstrap)
 - Languages: C#, HTML, CSS, TypeScript
 - Database: SQLite
 - Other: libraries for Angular (Toastr, Angular Materials and etc.)

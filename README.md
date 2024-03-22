@@ -21,3 +21,4 @@ All credit for this project goes to [Neil Cummings](https://www.udemy.com/user/n
 
 ## **Status**
 I've not finished watching the course on Udemy and working on this project, so there are more features and functionalities that need to be implemented here. </br>
+To se the code and what's implemented, checkout the develop branch. </br>
